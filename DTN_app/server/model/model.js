@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-var altitude_schema = new mongoose.Schema
+const altitude_schema = new mongoose.Schema
 ({
     Time:
     {
@@ -15,7 +15,7 @@ var altitude_schema = new mongoose.Schema
         type: String
     },
 })
-var humidity_schema = new mongoose.Schema
+const humidity_schema = new mongoose.Schema
 ({
     Time:
     {
@@ -30,7 +30,7 @@ var humidity_schema = new mongoose.Schema
         type: String
     },
 })
-var pressure_schema = new mongoose.Schema
+const pressure_schema = new mongoose.Schema
 ({
     Time:
     {
@@ -45,63 +45,57 @@ var pressure_schema = new mongoose.Schema
         type: String
     },
 })
-var rain_schema = new mongoose.Schema
+const rain_schema = new mongoose.Schema
 ({
     Time:
     {
         type: String,
-
     },
     Date:
     {
         type: String,
-
-
-    },
-    Rain_Code:
-    {
-        type: Number,
     },
     state:
     {
         type: String
     }
 })
-var temperature_schema = new mongoose.Schema
+const temperature_schema = new mongoose.Schema
 ({
     Time:
     {
         type: String,
-
     },
     Date:
     {
         type: String,
-
-
-    },
-    Temperature:
-    {
-        type: String
     },
 })
-var uv_schema = new mongoose.Schema
+const uv_schema = new mongoose.Schema
 ({
     Time:
     {
         type: String,
-
     },
     Date:
     {
         type: String,
-
-
     },
     UV_Sensor_Data:
     {
         type: String
     },
 })
-const Datadb =  mongoose.model(datadb,schema);
-module.exports = Datadb;
+
+const AltitudeSensor =  mongoose.model('AltitudeSensor',altitude_schema);
+const HumiditySensor =  mongoose.model('HumiditySensor',humidity_schema);
+const PressureSensor =  mongoose.model('PressureSensor',pressure_schema);
+const RainSensor =  mongoose.model('RainSensor',rain_schema);
+const TemperatureSensor =  mongoose.model('TemperatureSensor',temperature_schema);
+const UVSensor =  mongoose.model('UVSensor',uv_schema);
+
+
+module.exports = 
+{
+    AltitudeSensor, HumiditySensor, PressureSensor, RainSensor, TemperatureSensor, UVSensor
+}

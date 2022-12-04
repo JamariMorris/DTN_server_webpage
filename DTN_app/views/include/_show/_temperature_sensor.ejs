@@ -1,8 +1,7 @@
-<% for(var i = 0; i<data.length; i++){%>
+<% for(var i = 0; i<TemperatureSensor.length; i++){%>
     <tr>
         <td><%= i+1%></td>
-        <td><%= data[i].Time%></td>
-        <td><%= data[i].Date%></td>
-        <td><%= data[i].Temperute (C°)%></td>
+        <td><%= TemperatureSensor[i].Time%></td>
+        <td><%= TemperatureSensor[i].Date%></td>
     </tr>
     <%}%>

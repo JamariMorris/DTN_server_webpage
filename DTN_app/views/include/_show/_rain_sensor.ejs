@@ -1,9 +1,8 @@
-<% for(var i = 0; i<data.length; i++){%>
+<% for(var i = 0; i<RainSensor.length; i++){%>
     <tr>
         <td><%= i+1%></td>
-        <td><%= data[i].Time%></td>
-        <td><%= data[i].Date%></td>
-        <td><%= data[i].Rain code%></td>
-        <td><%= data[i].state%></td>
+        <td><%= RainSensor[i].Time%></td>
+        <td><%= RainSensor[i].Date%></td>
+        <td><%= RainSensor[i].state%></td>
     </tr>
     <%}%>
