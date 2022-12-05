@@ -1,0 +1,265 @@
+[{
+  "_id": {
+    "$oid": "637dc04d868fed5fe6fbd0db"
+  },
+  "Time": "01:40:13.956031-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "1023",
+  "state": "No Rain"
+},{
+  "_id": {
+    "$oid": "637dc04e868fed5fe6fbd0dc"
+  },
+  "Time": "01:40:14.134251-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "1023",
+  "state": "No Rain"
+},{
+  "_id": {
+    "$oid": "637dc04e868fed5fe6fbd0dd"
+  },
+  "Time": "01:40:14.293540-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "1023",
+  "state": "No Rain"
+},{
+  "_id": {
+    "$oid": "637dc04e868fed5fe6fbd0de"
+  },
+  "Time": "01:40:14.449074-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "1023",
+  "state": "No Rain"
+},{
+  "_id": {
+    "$oid": "637dc04e868fed5fe6fbd0df"
+  },
+  "Time": "01:40:14.646458-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "1023",
+  "state": "No Rain"
+},{
+  "_id": {
+    "$oid": "637dc04e868fed5fe6fbd0e0"
+  },
+  "Time": "01:40:14.850207-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "1023",
+  "state": "No Rain"
+},{
+  "_id": {
+    "$oid": "637dc04f868fed5fe6fbd0e1"
+  },
+  "Time": "01:40:15.045206-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "1023",
+  "state": "No Rain"
+},{
+  "_id": {
+    "$oid": "637dc04f868fed5fe6fbd0e2"
+  },
+  "Time": "01:40:15.363092-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "1023",
+  "state": "No Rain"
+},{
+  "_id": {
+    "$oid": "637dc04f868fed5fe6fbd0e3"
+  },
+  "Time": "01:40:15.589270-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "402",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc04f868fed5fe6fbd0e4"
+  },
+  "Time": "01:40:15.772590-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "402",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc04f868fed5fe6fbd0e5"
+  },
+  "Time": "01:40:15.977264-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "402",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc050868fed5fe6fbd0e6"
+  },
+  "Time": "01:40:16.133044-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "402",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc050868fed5fe6fbd0e7"
+  },
+  "Time": "01:40:16.286394-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "402",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc050868fed5fe6fbd0e8"
+  },
+  "Time": "01:40:16.489686-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "402",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc050868fed5fe6fbd0e9"
+  },
+  "Time": "01:40:16.693869-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "402",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc050868fed5fe6fbd0ea"
+  },
+  "Time": "01:40:16.848473-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "402",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc051868fed5fe6fbd0eb"
+  },
+  "Time": "01:40:17.012213-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "402",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc051868fed5fe6fbd0ec"
+  },
+  "Time": "01:40:17.167468-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "402",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc051868fed5fe6fbd0ed"
+  },
+  "Time": "01:40:17.322723-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "402",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc051868fed5fe6fbd0ee"
+  },
+  "Time": "01:40:17.477224-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "403",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc051868fed5fe6fbd0ef"
+  },
+  "Time": "01:40:17.632627-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "403",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc051868fed5fe6fbd0f0"
+  },
+  "Time": "01:40:17.791224-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "403",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc051868fed5fe6fbd0f1"
+  },
+  "Time": "01:40:17.943555-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "403",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc052868fed5fe6fbd0f2"
+  },
+  "Time": "01:40:18.094798-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "403",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc052868fed5fe6fbd0f3"
+  },
+  "Time": "01:40:18.250060-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "403",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc052868fed5fe6fbd0f4"
+  },
+  "Time": "01:40:18.428963-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "403",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc052868fed5fe6fbd0f5"
+  },
+  "Time": "01:40:18.585296-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "403",
+  "state": "rain"
+},{
+  "_id": {
+    "$oid": "637dc052868fed5fe6fbd0f6"
+  },
+  "Time": "01:40:18.742097-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "1023",
+  "state": "No Rain"
+},{
+  "_id": {
+    "$oid": "637dc052868fed5fe6fbd0f7"
+  },
+  "Time": "01:40:18.947086-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "1023",
+  "state": "No Rain"
+},{
+  "_id": {
+    "$oid": "637dc053868fed5fe6fbd0f8"
+  },
+  "Time": "01:40:19.152083-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "1023",
+  "state": "No Rain"
+},{
+  "_id": {
+    "$oid": "637dc053868fed5fe6fbd0f9"
+  },
+  "Time": "01:40:19.308009-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "1023",
+  "state": "No Rain"
+},{
+  "_id": {
+    "$oid": "637dc053868fed5fe6fbd0fa"
+  },
+  "Time": "01:40:19.462946-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "1023",
+  "state": "No Rain"
+},{
+  "_id": {
+    "$oid": "637dc053868fed5fe6fbd0fb"
+  },
+  "Time": "01:40:19.663700-05:00",
+  "Date": "2022-11-23",
+  "Rain code": "1023",
+  "state": "No Rain"
+}]
